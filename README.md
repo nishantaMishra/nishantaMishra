@@ -1,5 +1,7 @@
-- 👋 Hi, I’m निशान्त मिश्रा @nishantaMishra
-- I am a physics student. 
+- Namaskara! I am निशान्त मिश्रा @nishantaMishra
+- I am a physics scholar. 
+
+
 
 
 <!--- 👀 I’m interested in ...
