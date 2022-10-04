@@ -4,22 +4,22 @@
 #### Namaskara! I am निशान्त मिश्रा @nishantaMishra 
 
 - 🔭 I am a physics scholar. National Institute of Technology, Silchar.
-- 🌱 I’m currently learning Javascript Framework ٫
-- 👯 I’m looking to collaborate on the experience of working with a team٫
-- 🤔 I’m looking for help with with developing myself
+- 🌱 I am here to enhance my technical skills
+- 👯 My mother language is the Hindi. 
+- 🤝🏻 Looking for some open source project to collaborate with.
 - 📫 The best way to contact me is via e-mai: nishunm2000@gmail.com
 
 <hr/>
 
 ### my social media links :
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MidoEsquire)
-[![gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedshehataq98@gmail.com)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100046365577017)
+[![gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishunm2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2F%25E0%25A4%25A8%25E0%25A4%25BF%25E0%25A4%25B6%25E0%25A4%25BE%25E0%25A4%25A8%25E0%25A5%258D%25E0%25A4%25A4-%25E0%25A4%25AE%25E0%25A4%25BF%25E0%25A4%25B6%25E0%25A5%258D%25E0%25A4%25B0%25E0%25A4%25BE%3Ffbclid%3DIwAR1wH0_o6OweHpAGyBDjZhU9wWCLER40-yUssC6GtDjFmw8qMBleIY_XOzs&h=AT1jGZ0vhFGVzIIIX2nf799oYA4zJtQI8a3cqqsnkpKETud6M2QLj8iSptVLqO9ctm2xMxRY3-4VyJ5SOIYvi1EjXGZbvOcwiHwbi_6dLFpLMgX4SKekLvuixlf_)
 
 
 
 
-### Languages Tools and pkg's : 🛠
+<!--### Languages Tools and pkg's : 🛠
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white).
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
