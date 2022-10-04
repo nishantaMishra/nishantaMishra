@@ -1,7 +1,7 @@
 ![Header](https://media.giphy.com/media/jY5WsA0qpJJXq/giphy.gif)
 
 
-#### Namaskara! I am निशान्त मिश्रा @nishantaMishra 
+# Namaskara! I am निशान्त मिश्रा @nishantaMishra 
 
 - 🔭 I am a physics scholar. National Institute of Technology, Silchar.
 - 🌱 I am here to enhance my technical skills
