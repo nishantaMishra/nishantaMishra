@@ -1,4 +1,4 @@
-![Header](https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy.gif)
+![Header](https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy-downsized.gif)
 
 
 ## Namaskara! I am निशान्त मिश्रा @nishantaMishra 
