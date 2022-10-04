@@ -1,20 +1,20 @@
 ![Header](https://media.giphy.com/media/jY5WsA0qpJJXq/giphy.gif)
 
 
-#### Hi i'a Ahmed Shehata 
+#### Namaskara! I am निशान्त मिश्रा @nishantaMishra 
 
-- 🔭 I’m currently working on Increase my experience ٫
+- 🔭 I am a physics scholar. National Institute of Technology, Silchar.
 - 🌱 I’m currently learning Javascript Framework ٫
 - 👯 I’m looking to collaborate on the experience of working with a team٫
 - 🤔 I’m looking for help with with developing myself
-- 📫 How to reach me: ahmedshehataq98@gmail.com
+- 📫 The best way to contact me is via e-mai: nishunm2000@gmail.com
 
 <hr/>
 
 ### my social media links :
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MidoEsquire)
 [![gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedshehataq98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shehata-b63001225/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2F%25E0%25A4%25A8%25E0%25A4%25BF%25E0%25A4%25B6%25E0%25A4%25BE%25E0%25A4%25A8%25E0%25A5%258D%25E0%25A4%25A4-%25E0%25A4%25AE%25E0%25A4%25BF%25E0%25A4%25B6%25E0%25A5%258D%25E0%25A4%25B0%25E0%25A4%25BE%3Ffbclid%3DIwAR1wH0_o6OweHpAGyBDjZhU9wWCLER40-yUssC6GtDjFmw8qMBleIY_XOzs&h=AT1jGZ0vhFGVzIIIX2nf799oYA4zJtQI8a3cqqsnkpKETud6M2QLj8iSptVLqO9ctm2xMxRY3-4VyJ5SOIYvi1EjXGZbvOcwiHwbi_6dLFpLMgX4SKekLvuixlf_)
 
 
 
@@ -55,40 +55,6 @@
   - [ ] JavaScript Framwork => 'React' [learn more](https://github.com/AhmedShehata98/react-learn-plan). :stopwatch:
   
 
-
- # `Projects I've Done :`
- > Note : What is to come is a list of my best works, not all of my works
- 
- 
- - my portofolio
-    - :link: [live Demo visit live Demo ](https://ahmedshehata.netlify.app) 
-    
- - Music Player
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/Music-Player-app/) 
-
-
- - my Sudy List 
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/To-Study-List/)
-
-
- - GYM Subscriber Managment
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/subscriber-managment/)  
- - E-Commerce Product page 
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/ecommerce-product-page/)  
- - Inventory Managment System
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/Inventory-management-system/)  
- - Currency Convert - API Project
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/currency_exchange/) 
- - Weather App - API Project
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/Weather_App/)  
- - Landing Page template 1
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/LoopStudios-landing/)  
- - Landing Page template 2
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/sunnyside-agency-landing-page/)
- - Landing Page template 3
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/code-and-go/)  
- - Landing Page template 4
-    - :link: [live Demo visit live Demo ](https://ahmedshehata98.github.io/Analytics-Site/)  
 
 <!--- Namaskara! I am निशान्त मिश्रा @nishantaMishra
 - I am a physics scholar. National Institute of Technology, Silchar.
