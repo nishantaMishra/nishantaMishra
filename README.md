@@ -18,7 +18,7 @@
 
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nishantaMishra&label=Stalker%20Count&color=0e75b6&style=flat" alt="निशान्त मिश्रा" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nishantaMishra&label=Profile%20Views&color=0e75b6&style=flat" alt="निशान्त मिश्रा" /> </p>
 
 <br>
 
