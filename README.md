@@ -1,11 +1,12 @@
-![Header](https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy-downsized.gif)
+<! -- ![Header](https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy-downsized.gif) -->
+![Header](../Ino_headerbild.jpg)
 
 
 ## Namaskara! I am निशान्त मिश्रा @nishantaMishra 
 
 - 🔭 I am a physics scholar. National Institute of Technology, Silchar.
 - 🌱 I am here to enhance my technical skills
-- 👯 My mother language is the Hindi. 
+- 👯 My mother language is the Hindi language.
 - 🤝🏻 Looking for some open source project to collaborate with.
 - 📫 The best way to contact me is via e-mai: nishunm2000@gmail.com
 
