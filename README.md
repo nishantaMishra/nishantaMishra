@@ -4,7 +4,8 @@
 
 ## Namaskara! I am निशान्त मिश्रा @nishantaMishra 
 
-- 🔭 I am a physics scholar. National Institute of Technology, Silchar.
+- 🔭 I am a Physics Scholar.
+- 🔎 Research Field - Nonlinear optics.
 - 🌱 I am here to enhance my technical skills
 - 👯 My mother language is the Hindi language.
 - 🤝🏻 Looking for some open source project to collaborate with.
