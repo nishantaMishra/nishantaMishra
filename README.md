@@ -19,7 +19,7 @@
 ### My social media links :
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100046365577017)
 [![gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishunm2000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2F%25E0%25A4%25A8%25E0%25A4%25BF%25E0%25A4%25B6%25E0%25A4%25BE%25E0%25A4%25A8%25E0%25A5%258D%25E0%25A4%25A4-%25E0%25A4%25AE%25E0%25A4%25BF%25E0%25A4%25B6%25E0%25A5%258D%25E0%25A4%25B0%25E0%25A4%25BE%3Ffbclid%3DIwAR1wH0_o6OweHpAGyBDjZhU9wWCLER40-yUssC6GtDjFmw8qMBleIY_XOzs&h=AT1jGZ0vhFGVzIIIX2nf799oYA4zJtQI8a3cqqsnkpKETud6M2QLj8iSptVLqO9ctm2xMxRY3-4VyJ5SOIYvi1EjXGZbvOcwiHwbi_6dLFpLMgX4SKekLvuixlf_)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4-%E0%A4%AE%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/nishanta_mishra)
  <!-- https://dev.to/envoy_/150-badges-for-github-pnk-->
 
