@@ -2,14 +2,14 @@
 ![Header](lno_headerbild.jpg)
 
 
-## Namaskara! I am निशान्त मिश्रा @nishantaMishra 
+## Namaskara! I am निशान्त मिश्रा (Niśānta Miśrā) @nishantaMishra 
 
 - 🔭 I am a Physics Scholar.
 - 🔎 Research Field - Nonlinear optics.
 - 🌱 I am here to enhance my technical skills
 - 👯 My mother language is the Hindi language.
 - 🤝🏻 Looking for some open source project to collaborate with.
-- 📫 The best way to contact me is via e-mai: nishunm2000@gmail.com
+- 📫 The best way to contact me is via e-mai: nisantamisra00@gmail.com
 
 <hr/>
 <br>
