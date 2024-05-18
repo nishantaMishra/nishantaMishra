@@ -1,11 +1,10 @@
-<!-- ![Header](https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy-downsized.gif) -->
-![Header](lno_headerbild.jpg)
+![Header](computational_material_science.png.jpg)
 
 
 ## Namaskara! I am निशान्त मिश्रा (Niśānta Miśrā) @nishantaMishra 
 
 - 🔭 I am a Physics Scholar.
-- 🌱 I am here to enhance my technical skills
+- 🌱 I am here to explore, store my codes and collaborate.
 - 👯 My mother language is the Hindi language.
 - 📫 The best way to contact me is via e-mai: nisantamisra00@gmail.com
 
