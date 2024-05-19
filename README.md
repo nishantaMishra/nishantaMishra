@@ -1,4 +1,4 @@
-![Header](computational_material_science.png.jpg)
+![Header](computational_material_science.png)
 
 
 ## Namaskara! I am निशान्त मिश्रा (Niśānta Miśrā) @nishantaMishra 
