@@ -8,6 +8,9 @@
 - 👯 My mother language is the Hindi language.
 - 📫 The best way to contact me is via e-mai: nisantamisra00@gmail.com
 
+![Typing Animation](animation.svg)
+
+
 <hr/>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantaMishra&label=Profile%20Views&color=0e75b6&style=flat" alt="निशान्त मिश्रा" /> </p>
