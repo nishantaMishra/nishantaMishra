@@ -8,8 +8,6 @@
 - 👯 My mother language is the Hindi language.
 - 📫 The best way to contact me is via e-mai: nisantamisra00@gmail.com
 
-![Typing Animation](animation.svg)
-
 
 <hr/>
 <br>
